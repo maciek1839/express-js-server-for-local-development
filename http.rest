@@ -1,0 +1,6 @@
+GET http://localhost:5000
+###
+GET http://localhost:5000/resources/resource1.json
+###
+GET http://localhost:5000/resources/resource-array1.json
+

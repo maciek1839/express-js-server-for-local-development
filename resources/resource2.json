@@ -1,0 +1,11 @@
+{
+    "exampleKey1": "Example value",
+    "exampleKey2": [
+        {
+            "exampleKey":"Example value 1"
+        },
+        {
+            "exampleKey":"Example value 2"
+        }
+    ]
+}
