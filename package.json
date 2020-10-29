@@ -1,6 +1,6 @@
 {
   "name": "express-js-server-for-local-development",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Simple HTTP server for local development. The main purpose is to server resources from the local file system (your computer).",
   "main": "src/index.ts",
   "scripts": {
